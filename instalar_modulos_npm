@@ -1,0 +1,14 @@
+
+npm install morgan --save
+npm install body-parser --save 
+
+npm install --save @types/body-parser
+npm install --save @types/morgan
+
+npm install typescript --save
+
+npm install gulp --save
+npm install --global gulp-cli
+
+npm install --save-dev gulp-nodemon
+npm install gulp-typescript typescript
